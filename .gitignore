@@ -1,0 +1,4 @@
+# Ignore everything except .ipynb files in the root directory
+/*
+!.gitignore
+!*.ipynb
