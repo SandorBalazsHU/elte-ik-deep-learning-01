@@ -3,3 +3,4 @@
 !.gitignore
 !*.ipynb
 !readme.md
+!env.bat
